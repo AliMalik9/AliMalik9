@@ -14,7 +14,7 @@ npx tailwindcss init -p
 ```
 Aad This script in package.json file
 ```
-"start": "vite"
+"start": "vite",
 "build": "vite build"
 ```
 For starting server
