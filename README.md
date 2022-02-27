@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Jan
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... New Type of Technology
-- 💞️ I’m looking to collaborate on ... Next.js
+- 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ... DM on Gmail
 
 <!---
