@@ -29,7 +29,7 @@ npm run start
 ```
 Build Css For Production (Deployment)
 ```
-npm run build:tailwind
+npm run build
 ```
 You can see the TailwindCss full file and customize the config file 
 ```
