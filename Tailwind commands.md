@@ -17,6 +17,12 @@ Aad This script in package.json file
 "start": "vite",
 "build": "vite build"
 ```
+Create style.css file and add this
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
 For starting server
 ```
 npm run start
